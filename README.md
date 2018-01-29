@@ -6,4 +6,5 @@ The details of the examination, venue & Date of the examination will be made ava
 1. Administrator
 2. Jobseekers
 3. Company
-Administrator: Administrator has the full authority over the website. He can view all the registered users and have the power to delete them. He can edit the web pages and update them. He can view all the company details also.
+
+#Administrator: Administrator has the full authority over the website. He can view all the registered users and have the power to delete them. He can edit the web pages and update them. He can view all the company details also.
